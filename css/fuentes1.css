@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@700&family=Codystar&family=Noto+Sans+HK:wght@400;500&family=Rochester&family=Sedgwick+Ave&family=Sofia&effect=shadow-multiple&display=swap');
+h1{
+    color: rgb(113, 81, 175);
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #989da2;
+    font-family: 'Codystar', cursive;
+
+}
+.caja{
+    padding: 5px;
+    width: 40%;
+    height: 80px;
+
+
+    border-radius: 5px;
+    color:white;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+    float: left;
+    
+    
+}
+.caja.serif{
+    background-color: #40615c;
+}
+.fuente_times{
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 900;
+    font-variant: small-caps;
+}
+.fuente_georgia{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: larger;
+}
+.caja.sans-serif{
+    background-color: #0d133b;
+}
+.fuente_arial{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size:xx-small;
+}
+.fuente_verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    
+}
+.caja.monospace{
+    background-color: #53203e;
+    font-size: 18px;
+}
+.fuente_courier{
+    font-family: 'Courier New', Courier, monospace;
+}
+.caja.cursive{
+    background-color: rgb(106, 24, 24);
+}
+.fuente_lucida{
+    font-family: 'Lucida handwriting', cursive;
+}
+.caja_textofonts{
+    background-color: black;
+    color: white;
+    font-family: 'Sedgwick Ave', cursive;text-align: center;
+   
+    
+}

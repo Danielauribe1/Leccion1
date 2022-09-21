@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: rgb(43, 65, 103);
+}
+div1{
+    padding: 10px;
+    border: 15px solid #457b9d;
+    margin: 20px;
+    background-color: #d1e6f4;
+    width: 200px;
+
+
+    outline: 10px inset #a6cbe2; /*Borde por fuera */
+    outline-offset: 5px; /*Separación del borde*/
+
+}
+div{
+    padding: 10px;
+    border: 1px solid #eb048f;
+    width: 100px;
+    background-color: #f4d1e9;
+
+    max-width: 100%;
+    box-sizing: border-box;
+}
+div3{
+  
+    border: 1px solid #986eb2;
+    background-color: #6c2d65;
+    color: aliceblue;
+    margin: 0auto;
+}

@@ -1,0 +1,38 @@
+h1{
+    color: #ef476f;
+    background-color: rgb(247, 247, 236);
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #989da2;
+    letter-spacing: 2px;
+    text-decoration: overline underline;
+}
+.caja{
+    padding: 15px;
+    margin: auto;
+    width: 70%;
+    background-color: #fcced9;
+    border-radius: 5px;
+  
+}
+.intro{
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.texto{
+    text-align:justify;
+    text-indent: 30px;
+
+}
+.texto2{
+   
+    line-height: 3;
+    
+
+    /*direction:rtl;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: none;
+    text-decoration: line-through;*/
+}

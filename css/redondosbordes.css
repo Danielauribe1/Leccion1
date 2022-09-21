@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.solido{
+    border: solid salmon;
+    border-width: 5px;
+    border-radius: 20px;
+}
+.redondeado{
+    border: 5px solid hotpink;
+    border-radius: 20px 0px 10px;
+}
